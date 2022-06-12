@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "cloudproject",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\DATA\\Semester 8\\Cloud Security\\Proj\\cloud-project\\amplify\\backend\\api\\cloudproject\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
